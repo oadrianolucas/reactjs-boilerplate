@@ -1,4 +1,4 @@
-# 🪐 Boilerplate + Next.js + Tailwind CSS
+# 🪐 Boilerplate + Next.js
 
 In this project using:
 
